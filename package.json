@@ -81,7 +81,7 @@
     "istanbul": "~0.4.1",
     "chai": "^3.2.0",
     "sinon": "^1.16.1",
-    "chai-as-promised": "^5.1.0",
+    "chai-as-promised": "^7.0.0",
     "chai-things": "^0.2.0",
     "karma": "~0.13.3",
     "karma-firefox-launcher": "~0.1.6",
